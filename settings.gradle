@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Netgear Demo 04142021"
