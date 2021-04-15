@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Netgear Demo 04142021</string>
+    <string name="app_name">Netgear Mobile Developer Exercise 2021</string>
+    <string name="image_manifest">Image Manifest</string>
+    <string name="left_arrow_back">⇜ Back</string>
+    <string name="loading_image">Loading Image</string>
 </resources>

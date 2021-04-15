@@ -17,7 +17,7 @@ android {
         versionName "1.0"
 
 //        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-        testInstrumentationRunner "com.homan.huang.netgearmobiledeveloperexercise2021.util.HiltTestRunner"
+        testInstrumentationRunner "com.homan.huang.netgeardemo04142021.util.HiltTestRunner"
 
         // api key        type     var        value
         buildConfigField("String", "API_KEY", API_KEY)
@@ -118,7 +118,7 @@ dependencies {
 
     //region lifecycle
     // Lifecycle
-    def lifecycle_version = "2.3.0"
+    def lifecycle_version = "2.3.1"
     // ViewModel
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version"
     // LiveData
