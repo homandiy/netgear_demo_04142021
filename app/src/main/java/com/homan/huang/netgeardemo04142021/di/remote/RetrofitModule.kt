@@ -22,7 +22,7 @@ object RetrofitModule {
     // switch to show http log
     val HTTP_DEBUG = true
     // http timeout in second
-    val mTimeout = 100L
+    val mTimeout = 6000L
 
     @Provides
     @Singleton
